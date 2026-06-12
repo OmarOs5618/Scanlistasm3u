@@ -1,5 +1,5 @@
 # Scanlistasm3u
-Escaner de listas m3u
+Escaner de listas m3y
 
 
 gif clone https://github.com/OmarOs5618/Scanlistasm3y
