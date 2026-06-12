@@ -2,9 +2,9 @@
 Escaner de listas m3u
 
 
-gif clone https://github.com/OmarOs5618/Scanlistasm3u
+gif clone https://github.com/OmarOs5618/Scanlistasm3y
 
-cd Scanlistasm3u
+cd Scanlistasm3y
 
 Is
 
